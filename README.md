@@ -1,4 +1,4 @@
-# nba_classifier
+# NBA Rookie classifier
 Deciding whether an NBA rookie will remain in the league for 5 years, based on rookie year stats.
 Using machine learning (Decision tree + Logistic regression).
 
